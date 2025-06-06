@@ -36,7 +36,9 @@ public class FirstScript : MonoBehaviour
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/9bd44fa5-4e1d-4175-a78f-7e406a0c3b2d)
+![image](https://github.com/user-attachments/assets/6ecdab67-18c6-4dbc-bfb7-7634a3a6a89a)
+
+
 
 ### Result:
 Thus the basic scripting in Unity and printing welcome message in Console window is successfully executed. 
